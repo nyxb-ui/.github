@@ -19,7 +19,7 @@ Now that we are talking about the important things ☝️, are you contributing 
 We develop and maintain 🧙‍♂️ Nyxb UI:
 
 - [Nyxb UI](https://github.com/nyxb-ui/ui) - The core library of Nyxb UI 💜
-- [Nyxb CLI](https://github.com/nyxb-ui/packages/cli) - The command line tool for Nyxb UI 🛠️
+- [Nyxb CLI](https://github.com/nyxb-ui/ui/blob/main/packages/cli/README.md) - The command line tool for Nyxb UI 🛠️
 
 ### 👓 Appendix
 
