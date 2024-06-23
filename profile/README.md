@@ -12,7 +12,7 @@ The open source community is the 💗 heart of Nyxb UI and fundamental to how we
 - [MagicUI](https://github.com/magicuidesign/magicui) has fantastic components but lacks a CLI.
 - We fused both together and added our own components to create a powerful library.
 
-Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://github.com/nyxb-ui/ui/CONTRIBUTING.md).
+Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://github.com/nyxb-ui/ui/blob/main/CONTRIBUTING.md).
 
 ### 🛠️ Our Project
 
