@@ -1,6 +1,9 @@
 ## Hey, this is us 👋
 
-![The illustration shows a magical scene with a wizard holding a laptop in a colorful, whimsical forest with glowing plants and mushrooms. In the background, there are fairy-tale houses.](https://raw.githubusercontent.com/nyxb/nyxb/main/images/nyxb.jpg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/nyxb/nyxb/refs/heads/main/images/light.png#gh-light-mode-only">
+<img src="https://raw.githubusercontent.com/nyxb/nyxb/refs/heads/main/images/dark.png#gh-dark-mode-only">
+</p>
 
 Yes, we are building Nyxb UI to make your work easier. Inspired by the amazing [shadcn/ui](https://github.com/shadcn/ui) and [MagicUI](https://github.com/magicuidesign/magicui), we aim to create a comprehensive UI library that combines the best of both worlds. Our journey started with a simple idea and has grown into a library with over **150+ components** and counting! 🌟
 
